@@ -1,1 +1,3 @@
-# Applied_Data_Science_Capstone
+# Applied Data Science Capstone
+
+Repository of contents of course 'Applied Data Science Capstone'.
